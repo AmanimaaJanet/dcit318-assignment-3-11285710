@@ -1,0 +1,5 @@
+Alice Akoto (ID: 101): Score = 84, Grade = A
+Amanimaa Janet (ID: 102): Score = 75, Grade = B
+Charlie Brown (ID: 103): Score = 62, Grade = C
+Diana Asante (ID: 104): Score = 48, Grade = F
+Edward Ayim (ID: 105): Score = 95, Grade = A
